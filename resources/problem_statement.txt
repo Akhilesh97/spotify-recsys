@@ -1,4 +1,5 @@
-We aim to develop a recommendation system that effectively balances the delicate interplay between exploration and exploitation for Spotify users. In addressing the diverse preferences of users, our system will consider various dimensions:
+We aim to develop a recommendation system that effectively balances the delicate interplay between exploration and exploitation for Spotify users. 
+In addressing the diverse preferences of users, our system will consider various dimensions:
 
 1. **Artist Recommendations:**
    - Users seek top recommendations (top k) for specific artists they enjoy.
