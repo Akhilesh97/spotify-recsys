@@ -4,7 +4,22 @@
 
 ## Overview
 
-This project aims to provide personalized music recommendations to users based on their listening history on Spotify. It tackles the common cold start problem, ensuring that even new users or items can receive relevant recommendations.
+We aim to develop a recommendation system that effectively balances the delicate interplay between exploration and exploitation for Spotify users. In addressing the diverse preferences of users, our system will consider various dimensions:
+
+1. **Artist Recommendations:**
+   - Users seek top recommendations (top k) for specific artists they enjoy.
+
+2. **Time-of-Day Preferences:**
+   - Users desire top k recommendations tailored to the time of day. For instance, recommending upbeat songs in the morning and soothing tunes before bedtime.
+
+3. **Entire Listen History:**
+   - Users want top k recommendations based on their entire listening history, reflecting a comprehensive understanding of their music preferences.
+
+In navigating these user scenarios, Spotify faces a perennial dilemma: whether to introduce users to new songs to bolster the popularity of emerging artists or to recommend familiar songs aligned with users' historical preferences.
+
+The crux of the matter lies in the tradeoff between these two choices. Recommending new songs holds the potential to elevate the popularity of emerging content, but it carries the risk of user dissatisfaction, potentially leading to a switch to another song or even app disengagement. On the other hand, suggesting songs aligned with users' historical preferences ensures a safer user experience, benefiting both the user and the app.
+
+Our recommendation system aims to strike the right balance in this exploration-exploitation tradeoff. It seeks to enhance user satisfaction by intelligently recommending a mix of familiar favorites and promising new content, ensuring an engaging and personalized music experience for Spotify users.
 
 ## Getting Started
 
