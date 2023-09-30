@@ -43,11 +43,12 @@ This project aims to provide personalized music recommendations to users based o
 - **models/:** Stores trained models.
 - **notebooks/:** Contains .ipynb files for data extraction, data exploration, preparation
 
-  ### Description
+## Description
 
 Collaborative Filtering: Utilizes user-item interactions to find similar users or items.
 Content-Based Filtering: Uses user and item features to make recommendations.
-  ### Contributors
+
+## Contributors
 Akhilesh Patil (@akpa2888@colorado.edu)
 Sreevani Patil (@srpa2129@colorado.edu)
 License
