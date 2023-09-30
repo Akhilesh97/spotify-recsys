@@ -49,9 +49,10 @@ Collaborative Filtering: Utilizes user-item interactions to find similar users o
 Content-Based Filtering: Uses user and item features to make recommendations.
 
 ## Contributors
-Akhilesh Patil (@akpa2888@colorado.edu)
-Sreevani Patil (@srpa2129@colorado.edu)
-License
+- Akhilesh Patil (@akpa2888@colorado.edu)
+- Sreevani Patil (@srpa2129@colorado.edu)
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
