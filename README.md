@@ -41,13 +41,15 @@ This project aims to provide personalized music recommendations to users based o
 - **data/:** Contains raw and processed data.
 - **src/:** Source code for data preparation, feature engineering, model training, and recommendations.
 - **models/:** Stores trained models.
-- **notebooks/:** J
+- **notebooks/:** Contains .ipynb files for data extraction, data exploration, preparation
+
+  ### Description
 
 Collaborative Filtering: Utilizes user-item interactions to find similar users or items.
 Content-Based Filtering: Uses user and item features to make recommendations.
-Contributors
-Your Name (@your-username)
-Additional contributors (if any)
+  ### Contributors
+Akhilesh Patil (@akpa2888@colorado.edu)
+Sreevani Patil (@srpa2129@colorado.edu)
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
